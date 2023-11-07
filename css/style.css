@@ -52,13 +52,17 @@ header nav {
     color: rgb(255, 255, 255);
 }
 
-header .logo>a>svg {
+.logo>a>svg {
     height: 40px;
     width: auto;
     fill: white;
 }
 
-header .logo {
+.logo>a>svg:hover {
+    fill: rgb(0, 0, 0);
+}
+
+.logo {
     justify-content: center;
 }
 
