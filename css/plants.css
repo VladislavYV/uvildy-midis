@@ -1,0 +1,27 @@
+#plants {
+    padding: 50px 100px;
+}
+
+.plant {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.plant p {
+    padding: 0 30px;
+}
+
+#plants img {
+    height: auto;
+    width: 500px;
+    border-radius: 50%;
+}
+
+dl {
+    padding-top: 30px
+}
+
+dt {
+    padding-top: 30px;
+}
